@@ -1,0 +1,28 @@
+.logo-brdev {
+  font-size: 3em;
+  margin-bottom: 2em;
+}
+
+.logo-brdev.-coiny {
+  font-family: 'Coiny', cursive;
+}
+
+.logo-brdev.-fira {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.logo-brdev.-margarine {
+  font-family: 'Margarine', cursive;
+}
+
+.logo-brdev.-codigo-falado {
+  color: var(--color-codigo-falado);
+}
+
+.logo-brdev.-toramaru08 {
+  color: var(--color-toramaru08);
+}
+
+.logo-brdev.-collabcode {
+  color: var(--color-collabcode);
+}
