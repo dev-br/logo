@@ -23,16 +23,13 @@
 .logo-brdev.-flag {
   display: flex;
   background-color: var(--color-green);
-  padding: 3px;
+  padding: 7px 13px 7px 7px
 }
 
 .logo-brdev.-flag > .content {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: var(--color-white);
   font-size: 0.8em;
-  padding: 6px;
+  padding: 8px 12px 0px 5px;
 }
 
 .logo-brdev.-small {
