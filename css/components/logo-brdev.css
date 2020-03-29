@@ -1,18 +1,55 @@
 .logo-brdev {
   font-size: 3em;
+  color: var(--color-green);
+  letter-spacing: -5px;
+}
+
+.logo-brdev:not(:last-child) {
   margin-bottom: 2em;
+}
+
+.logo-brdev > .green {
+  color: var(--color-green);
+}
+
+.logo-brdev > .yellow {
+  color: var(--color-yellow);
+}
+
+.logo-brdev > .blue {
+  color: var(--color-blue)
+}
+
+.logo-brdev.-flag {
+  display: flex;
+  background-color: var(--color-green);
+  padding: 3px;
+}
+
+.logo-brdev.-flag > .content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-white);
+  font-size: 0.8em;
+  padding: 6px;
+}
+
+.logo-brdev.-small {
+  letter-spacing: 2px;
 }
 
 .logo-brdev.-coiny {
   font-family: 'Coiny', cursive;
-}
-
-.logo-brdev.-fira {
-  font-family: 'Fira Sans', sans-serif;
+  letter-spacing: -4px;
 }
 
 .logo-brdev.-margarine {
   font-family: 'Margarine', cursive;
+}
+
+.logo-brdev.-fira {
+  font-family: 'Fira Sans', sans-serif;
 }
 
 .logo-brdev.-codigo-falado {
