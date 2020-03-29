@@ -39,9 +39,12 @@
   letter-spacing: 2px;
 }
 
-.logo-brdev.-coiny {
-  font-family: 'Coiny', cursive;
-  letter-spacing: -4px;
+.logo-brdev.-courier {
+  font-family: 'Courier Prime', monospace;
+}
+
+.logo-brdev.-code {
+  font-family: 'Source Code Pro', cursive;
 }
 
 .logo-brdev.-margarine {

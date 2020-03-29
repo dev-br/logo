@@ -1,0 +1,19 @@
+.separator-devbr {
+  border: none;
+  height: 4px;
+  width: 100%;
+  background-color: var(--color-green);
+  margin-bottom: 4em;
+}
+
+.separator-devbr:nth-child(2n) {
+  background-color: var(--color-green);
+}
+
+.separator-devbr:nth-child(3n) {
+  background-color: var(--color-yellow);
+}
+
+.separator-devbr:nth-child(4n) {
+  background-color: var(--color-blue);
+}
